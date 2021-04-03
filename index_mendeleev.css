@@ -7,3 +7,24 @@ body{
 #u{
     text-transform: uppercase;
 }
+
+#di{
+transform: rotate(180deg);
+    writing-mode:tb-rl;
+    width: 10px;
+    height:100px;
+    
+}
+#ff{
+    transform: rotate(90deg);
+    writing-mode:tb-rl;
+    text-align:center;
+    
+}
+#rh{
+   margin-top: 60px;
+}
+#rr{
+    margin-bottom: 60px;
+}
+<!-- доделать дорисовать менделеева и на гитхаб --!>
